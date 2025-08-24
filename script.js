@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      2.0
 // @description  Background Hacker Wars Log Monitor with Discord notifications, no modal UI.
-// @author       Scotty
+// @author       GingerDev
 // @match        https://hackerwars.io/*
 // ==/UserScript==
 
